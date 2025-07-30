@@ -8,6 +8,13 @@ Costo: Aporte solidario (libre, consciente y voluntario)
 # 🎯 Objetivo General
 Aprender los fundamentos del lenguaje Python mediante la creación de proyectos simples, útiles y aplicables, culminando con una aplicación con login funcional.
 
+¡Comunidad Virtual te invita a descubrir el poder de Python!
+Aprende los fundamentos del lenguaje más versátil y demandado del mundo de la programación, creando proyectos simples, útiles y aplicables a la vida real.
+Paso a paso, avanzarás desde lo básico hasta desarrollar tu propia aplicación con login funcional.
+No necesitas experiencia previa, solo ganas de aprender, crear y transformar tus ideas en código.
+
+¡Súmate a esta experiencia práctica y comienza tu viaje en el mundo del desarrollo con Comunidad Virtual!
+
 # 📚 Contenidos por Semana (Importante)
 | Semana | Tema Principal                                         | Proyecto asociado                    |
 | ------ | ------------------------------------------------------ | ------------------------------------ |
@@ -49,3 +56,5 @@ No se requiere computador potente: basta con conexión básica.
 
 # 🧾 ¿Cómo participar?
 Podrías hacer una inscripción por Google Forms o simplemente vía un post en redes con un correo de contacto. También puedes usar esta tutoría como base para construir comunidad en torno a Comunidad Virtual.
+
+https://docs.google.com/forms/d/e/1FAIpQLSf7uHsBpTYoxQe9NCQY7E8wJmRSQ0dlwdp5ljTxPDEznE4xRQ/viewform?usp=dialog
